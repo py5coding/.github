@@ -1,6 +1,6 @@
 # py5
 
-![py5 logo](https://py5.ixora.io/_static/logo.png)
+![py5 logo](../images/logo.png)
 
 py5 is a new version of [**Processing**][processing] for Python 3.8+. It makes the Java [**Processing**][processing] jars available to the CPython interpreter using [**JPype**][jpype]. It can do just about everything [**Processing**][processing] can do, except with Python instead of Java code.
 

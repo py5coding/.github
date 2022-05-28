@@ -11,5 +11,5 @@ The goal of py5 is to create a new version of Processing that is integrated into
 [jpype]: https://github.com/jpype-project/jpype
 
 [jupyter]: https://jupyter.org/
-[numpy]: https://www.numpy.org/
+[numpy]: https://numpy.org/
 [pillow]: https://python-pillow.org/

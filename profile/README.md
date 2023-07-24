@@ -10,7 +10,7 @@ The goal of py5 is to create a new version of Processing that is integrated into
 
 **Documentation** is being created at [py5coding.org](https://py5coding.org/).
 
-**Get In Touch!** Check out our [discussions][discussions], [GitHub issues][issues] and [@py5coding](http://twitter.com/py5coding) on Twitter.
+**Get In Touch!** Check out our [discussions][discussions] and [GitHub issues][issues], and for social media, follow us on Mastodon <a rel="me" href="https://fosstodon.org/@py5coding">fosstodon.org/@py5coding</a> and Twitter [@py5coding](http://twitter.com/py5coding).
 
 [py5generator]: https://github.com/py5coding/py5generator
 [py5_repo]: https://github.com/py5coding/py5

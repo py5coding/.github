@@ -20,6 +20,11 @@ To view the actual installed py5 library code, look at the [py5 repository][py5_
 
 This project is not an official part of the Processing Foundation and is not receiving any funding from them. Any funds you contribute will be used first for website expenses and next to support [@hx2A](https://github.com/hx2A/)'s time to further develop py5 as a solid creative coding framework used by educators, artists, and hobbyists all around the world.
 
+Thank you much for the support from py5's generous sponsors!
+
+* [@ericof](https://github.com/ericof) (Érico Andrei)
+* [@nickmcintyre](https://github.com/nickmcintyre) (Nick McIntyre)
+
 Have a comment or question about py5? We'd love to hear from you! The best ways to reach out are:
 
 * github [discussions](https://github.com/py5coding/py5generator/discussions) and [issues](https://github.com/py5coding/py5generator/issues)

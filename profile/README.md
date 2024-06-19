@@ -25,6 +25,7 @@ Thank you much for the support from py5's generous sponsors!
 * [@adanaher](https://github.com/adanaher) (Alec Danaher)
 * [@ericof](https://github.com/ericof) (Érico Andrei)
 * [@nickmcintyre](https://github.com/nickmcintyre) (Nick McIntyre)
+* [@r-dahlstedt-linux-guy](https://github.com/r-dahlstedt-linux-guy) (Rich Dahlstedt)
 
 Have a comment or question about py5? We'd love to hear from you! The best ways to reach out are:
 
